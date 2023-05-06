@@ -3,6 +3,7 @@
     "lodash": "^4.17.21"
   },
   "name": "hexlet",
+  "type": "module",
   "description": "Мой первый проект на Хекслете",
   "version": "1.0.0",
   "main": "index.js",

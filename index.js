@@ -1,2 +1,3 @@
+import _ from "lodash";
 console.log("Hello, Hexlet!");
-console.log('1111');
+console.log(_.last(['one', 'two']));
